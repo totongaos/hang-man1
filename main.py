@@ -50,7 +50,6 @@ def def_main():
         elif ans == '3':
             def_DeteleOder()
             print('-' * 20)
-
         elif ans == '4':
             done=True
 
